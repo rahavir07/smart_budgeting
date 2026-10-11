@@ -1,0 +1,8 @@
+{
+  "name": "PaisaPilot",
+  "description": "Smart 30-day Gen Z personal finance navigator to master ₹10,000 budget with what-if simulations, bills protection, and real-time safe-to-spend tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
